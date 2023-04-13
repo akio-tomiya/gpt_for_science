@@ -41,14 +41,19 @@ We look forward to this opportunity to consider, together with all of you, new r
 
 # 日時
 
-TBA
+5月17日(水), 時刻未定
 
-5月17日 or 24日 
+# スケジュール (TBC)
 
-# スケジュール
+## ハイブリッド　(予定)
+- 開催にあたって (富谷)
+- [東京大学 工学系研究科 技術経営戦略学専攻 松尾研究室　今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)
+さんによる講演
+- IMI 溝口先生による講演
 
-TBA ([東京大学 工学系研究科 技術経営戦略学専攻 松尾研究室　今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)
-さんによる講演があります)
+## オフライン
+- ライトニングトーク
+- フリーディスカッション
 
 # 場所
 
