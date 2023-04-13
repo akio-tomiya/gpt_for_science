@@ -20,7 +20,8 @@ LLMsの有効活用について議論を深めたいと考えております。
 この機会に、理論物理学と数学を中心とした自然科学の分野において、ChatGPTを活用した新たな研究方法や展望について、
 みなさんと一緒に考えることができることを楽しみにしています。
 
-本研究会は、[DLAP](https://cometscome.github.io/DLAP2020/) の流れを受けています。
+本研究会は、オンラインセミナーシリーズ[Deep learning and Physics
+](https://cometscome.github.io/DLAP2020/) の流れを受けています。
 
 (この開催趣旨はChat-GPT、GPT-4にて生成されたものを修正しております。)
 
