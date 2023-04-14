@@ -1,3 +1,5 @@
+# Exploring GPT's Influence on Natural Physics and Mathematics
+
 # 開催趣旨
 
 理論物理学と数学を中心に、自然科学におけるChatGPTの活用を探るワークショップを開催いたします。
@@ -48,7 +50,7 @@ We look forward to this opportunity to consider, together with all of you, new r
 
 # スケジュール (TBC)
 
-## ハイブリッド　(予定)
+## ハイブリッド　(未定)
 - 開催にあたって (富谷)
 - [東京大学 工学系研究科 技術経営戦略学専攻 松尾研究室　今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)
 さんによる講演
