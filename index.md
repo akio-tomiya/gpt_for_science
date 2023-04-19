@@ -74,4 +74,4 @@ TBA。現地参加は定員に達し次第、締め切ります。先着順で�
 # 主催・共催
 
 - 主催: [科学研究費補助金学術変革領域研究(A)「学習物理学の創成」](https://mlphys.scphys.kyoto-u.ac.jp/) [Twitter](https://twitter.com/MLPhysJP)
-- 共催: [理化学研究所数理想像プログラムiTHEMS](https://ithems.riken.jp/)
+- 共催: [理化学研究所数理創造プログラムiTHEMS](https://ithems.riken.jp/)
