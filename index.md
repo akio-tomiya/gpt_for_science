@@ -71,7 +71,8 @@ We look forward to this opportunity to consider, together with all of you, new r
 現地参加は定員に達し次第、締め切ります。先着順です。
 また旅費の補助はありません。
 
-https://docs.google.com/forms/d/e/1FAIpQLScLyzqE3U3lpWu4j6fnim3Q69A6ybtrp2nQkn-0Rb3W8dh5Zw/viewform
+[オンライン・オフラインの参加はこちら](
+https://docs.google.com/forms/d/e/1FAIpQLScLyzqE3U3lpWu4j6fnim3Q69A6ybtrp2nQkn-0Rb3W8dh5Zw/viewform)
 
 # 主催・共催
 
