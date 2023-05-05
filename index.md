@@ -59,7 +59,7 @@ All talks will be delivered in Japanese.
 [東京大学 工学系研究科 技術経営戦略学専攻 松尾研究室　今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)
 さんによる講演、議論
 - 13:30-14:30 
-溝口 佳寛さんによる、自動証明およびMathematica の利用についての講演、議論
+溝口 佳寛さんによる、証明支援系およびMathematica の利用についての講演、議論
 (九州大学)
 
 ## オフラインセッション
