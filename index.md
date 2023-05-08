@@ -56,12 +56,12 @@ All talks will be delivered in Japanese.
 - 10:00-10:10 
 開催にあたって (富谷)
 - 10:10-11:30 
-[今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)
+[今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)さん
 [Twitter](https://twitter.com/ImAI_Eruel/status/1653348804798849029)
 (東京大学)
-さんによる講演、議論
+による講演、議論
 - 13:30-14:30 
-溝口 佳寛さん(http://imi.kyushu-u.ac.jp/~ym/)
+[溝口 佳寛](http://imi.kyushu-u.ac.jp/~ym/)さん
 (九州大学)による、証明支援系およびMathematica の利用についての講演、議論
 
 ## オフラインセッション(オンラインなし)
