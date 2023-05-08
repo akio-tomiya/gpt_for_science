@@ -56,13 +56,15 @@ All talks will be delivered in Japanese.
 - 10:00-10:10 
 開催にあたって (富谷)
 - 10:10-11:30 
-[東京大学 工学系研究科 技術経営戦略学専攻 松尾研究室　今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)
+[今井翔太](https://weblab.t.u-tokyo.ac.jp/dt_team/%E4%BB%8A%E4%BA%95-%E7%BF%94%E5%A4%AA/)
+[Twitter](https://twitter.com/ImAI_Eruel/status/1653348804798849029)
+(東京大学)
 さんによる講演、議論
 - 13:30-14:30 
-溝口 佳寛さんによる、証明支援系およびMathematica の利用についての講演、議論
-(九州大学)
+溝口 佳寛さん(http://imi.kyushu-u.ac.jp/~ym/)
+(九州大学)による、証明支援系およびMathematica の利用についての講演、議論
 
-## オフラインセッション
+## オフラインセッション(オンラインなし)
 - 15:00-15:30 ライトニングトーク
 - 15:45-17:30 フリーディスカッション
 
@@ -71,6 +73,7 @@ All talks will be delivered in Japanese.
 理化学研究所(和光)・iTHEMSセミナールーム
 
 ハイブリッド及び、オフラインのみのセッションあり。
+詳細は後日連絡します。
 
 # 参加フォーム
 
@@ -79,6 +82,8 @@ All talks will be delivered in Japanese.
 
 [オンライン・オフラインの参加はこちら](
 https://docs.google.com/forms/d/e/1FAIpQLScLyzqE3U3lpWu4j6fnim3Q69A6ybtrp2nQkn-0Rb3W8dh5Zw/viewform)
+
+(オフラインは定員に達しましたので、参加停止しました)
 
 # 主催・共催
 
